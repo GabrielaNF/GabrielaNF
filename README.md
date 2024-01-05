@@ -27,4 +27,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-  
+<!-- Sites uteis:
+https://emojipedia.org/laptop  [EMOJIS]
+https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open  [MARKDOWN]
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md  [TEMAS GIT STATS]
+-->  

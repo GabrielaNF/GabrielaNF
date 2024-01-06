@@ -1,6 +1,6 @@
 # Hi there!! i am Gabriela ☺️
 
-+ I'm a student of Computer Engeneering at UTFPR (Universidade Tecnológica Federal do Paraná) -📍Pato Branco, Paraná
++ I'm a student ofComputer Engineering at the Universidade Tecnológica Federal do Paraná (UTFPR-PB) 
 + I'm an advisor in the People Management sector - @occamegenharia
 + I'm the Chief Financial Officer (CFO) and vice president of @bateria_oloduck
 + I'm currently learning JavaScript, TypeScript, ReactJS, Java, Python and C

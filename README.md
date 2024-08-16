@@ -1,9 +1,8 @@
 # Hi there!! i am Gabriela ☺️
 
 + I'm a student of Computer Engineering at the Universidade Tecnológica Federal do Paraná (UTFPR-PB) 
-+ I'm an advisor in the People Management sector - @occamegenharia
-+ I'm the Chief Financial Officer (CFO) and vice president of @bateria_oloduck
-+ I'm currently learning JavaScript, TypeScript, ReactJS, Java, Python and C
++ I'm the Chief of Human Resources (CHRO) in the People Management sector - @occamegenharia
++ I'm currently learning JavaScript, TypeScript, ReactJS, Java, C and C++
 
 ## Git stats 📊
 
